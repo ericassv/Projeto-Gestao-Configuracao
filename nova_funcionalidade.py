@@ -6,3 +6,5 @@ def apresentar_projeto():
     print("Arquivo versionado com Git e GitHub.")
 
 apresentar_projeto()
+
+# Segunda alteracao para demonstrar o controle de versoes
